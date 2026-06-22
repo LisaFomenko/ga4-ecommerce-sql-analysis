@@ -1,4 +1,3 @@
-Markdown
 # Аналіз E-commerce даних Google Analytics 4 в Google BigQuery
 
 ## Опис проєкту
