@@ -15,6 +15,6 @@
 
 ---
 
-## Технологічний стек
+## Технології:
 * **СУБД:** Google BigQuery (SQL)
 * **Датасет:** `bigquery-public-data.ga4_obfuscated_sample_ecommerce.events_*`
